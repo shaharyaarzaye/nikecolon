@@ -7,6 +7,7 @@ import CustomerReviews from "./CustomerReviews";
 import Subscribe from "./Subscribe";
 import Footer from "./Footer";
 import Nav from "../components/Nav"
+import Button from "../components/Button"
 
 export {
     Hero,
@@ -17,5 +18,6 @@ export {
     CustomerReviews,
     Subscribe,
     Footer,
-    Nav
+    Nav,
+    Button,
 }
